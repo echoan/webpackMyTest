@@ -1,0 +1,11 @@
+#imgBox {
+    width: 200px;
+    height: 200px;
+    background: url(../img/two.jpg) no-repeat center center;
+    background-size: 100%;
+}
+
+.classOne {
+    background: red;
+    color: black
+}
